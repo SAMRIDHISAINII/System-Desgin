@@ -1,7 +1,7 @@
-🏗️ System Design Concepts & Learning Resources
-A practical guide to help you learn and master system design – from fundamentals to large-scale distributed systems.
+# 🏗️ System Design Concepts & Learning Resources
+## A practical guide to help you learn and master system design – from fundamentals to large-scale distributed systems.
 
-📦 Key System Design Concepts
+# 📦 Key System Design Concepts
 Scalability
 
 Vertical vs. horizontal scaling
@@ -52,8 +52,8 @@ Security
 
 Authentication, authorization, encryption
 
-📚 Recommended Courses & Tutorials
-Resource	Format	Level	Link
+# 📚 Recommended Courses & Tutorials
+## Resource	Format	Level	Link
 Grokking the System Design Interview	Paid interactive course	Beginner–Intermediate	Link
 System Design Primer	Free GitHub repo	Beginner–Advanced	Link
 Designing Data-Intensive Applications (Book)	Book	Intermediate–Advanced	Link
@@ -63,7 +63,7 @@ Low Level Design by Arpit Bhayani	Paid & free lectures	Intermediate–Advanced	L
 Coursera – Cloud Computing Specialization	Paid/free	Intermediate	Link
 Google Cloud Architecture Center	Free guides & patterns	Beginner–Advanced	Link
 
-🛠️ Tools & Practice Platforms
+# 🛠️ Tools & Practice Platforms
 Excalidraw – sketch architecture diagrams
 
 dbdiagram.io – draw database schemas
@@ -74,7 +74,7 @@ LeetCode System Design
 
 Architectural Kata – practice challenges
 
-✅ Tips for Learning System Design
+# ✅ Tips for Learning System Design
 Focus on trade-offs, not just “perfect” solutions
 
 Build & sketch systems you use daily (Instagram, WhatsApp)
