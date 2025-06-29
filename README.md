@@ -53,15 +53,17 @@ Security
 Authentication, authorization, encryption
 
 # 📚 Recommended Courses & Tutorials
-## Resource	Format	Level	Link
-Grokking the System Design Interview	Paid interactive course	Beginner–Intermediate	Link
-System Design Primer	Free GitHub repo	Beginner–Advanced	Link
-Designing Data-Intensive Applications (Book)	Book	Intermediate–Advanced	Link
-MIT 6.824: Distributed Systems	Free lecture videos	Advanced	Link
-System Design YouTube Playlist – Gaurav Sen	Free videos	Beginner–Intermediate	Link
-Low Level Design by Arpit Bhayani	Paid & free lectures	Intermediate–Advanced	Link
-Coursera – Cloud Computing Specialization	Paid/free	Intermediate	Link
-Google Cloud Architecture Center	Free guides & patterns	Beginner–Advanced	Link
+| Resource                                         | Format                  | Level                 | Link                                                                                        |
+| ------------------------------------------------ | ----------------------- | --------------------- | ------------------------------------------------------------------------------------------- |
+| **Grokking the System Design Interview**         | Paid interactive course | Beginner–Intermediate | [Link](https://www.educative.io/courses/grokking-the-system-design-interview)               |
+| **System Design Primer**                         | Free GitHub repo        | Beginner–Advanced     | [Link](https://github.com/donnemartin/system-design-primer)                                 |
+| **Designing Data-Intensive Applications** (Book) | Book                    | Intermediate–Advanced | [Link](https://dataintensive.net/)                                                          |
+| **MIT 6.824: Distributed Systems**               | Free lecture videos     | Advanced              | [Link](https://pdos.csail.mit.edu/6.824/)                                                   |
+| **System Design YouTube Playlist – Gaurav Sen**  | Free videos             | Beginner–Intermediate | [Link](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) |
+| **Low Level Design by Arpit Bhayani**            | Paid & free lectures    | Intermediate–Advanced | [Link](https://arpitbhayani.me/llld/)                                                       |
+| **Coursera – Cloud Computing Specialization**    | Paid/free               | Intermediate          | [Link](https://www.coursera.org/specializations/cloud-computing)                            |
+| **Google Cloud Architecture Center**             | Free guides & patterns  | Beginner–Advanced     | [Link](https://cloud.google.com/architecture)                                               |
+
 
 # 🛠️ Tools & Practice Platforms
 Excalidraw – sketch architecture diagrams
